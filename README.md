@@ -5,7 +5,8 @@ Download ZIP 클릭
 # 다운로드 방법2
 깃허브 데스크톱 사용(구글링 하기)
 
-# 넣는곳 : RimWorld/mods
+# 넣는곳
+RimWorld/mods
 
 # 구조 예시  
 <pre>
