@@ -19,4 +19,4 @@ RimWorld
     ㄴ기타 등등  
 <pre>
 
-![Preview](https://raw.githubusercontent.com/lilly1987/TryStartCarryNoErr/master/About/Preview.png)
+
